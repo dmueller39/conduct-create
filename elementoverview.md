@@ -1,5 +1,3 @@
-<a href="/" class="font-weight-bold text-muted navbar-brand"><img class="ConductLogo" src="/icon-transparent.png" width="44" height="44"><span class="ConductName">Conduct</span></a>
-
 # Element Overview
 
 In [Creating Your First Habit](firsthabit.md) we explored the basics of creating a habit. In this section we will take a look at defining elements and their behaviors.
