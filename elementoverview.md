@@ -1,3 +1,5 @@
+<style>img { width: 300px; } h3 { color:#888888;}</style>
+
 # Element Overview
 
 In [Creating Your First Habit](firsthabit.md) we explored the basics of creating a habit. In this section we will take a look at defining elements and their behaviors.
@@ -51,7 +53,7 @@ First, there are simple messages. These can be helpful for showing quotes, setti
 Here is a message.
 ```
 
-TODO Add An Example
+![element_overview_message](images/element_overview_message.png)
 
 ### Basic Prompt
 
@@ -63,7 +65,7 @@ What do you think?
 ?
 ```
 
-TODO Add An Example
+![element_overview_prompt](images/element_overview_prompt.png)
 
 ### Hidden Prompt
 
@@ -75,7 +77,7 @@ What do you think?
 ??
 ```
 
-TODO Add An Example
+![element_overview_prompt](images/element_overview_prompt.png)
 
 ### Optional Prompt
 
@@ -87,7 +89,7 @@ What do you think?
 ?-
 ```
 
-TODO Add An Example
+![element_overview_optional_prompt](images/element_overview_optional_prompt.png)
 
 ### Time Prompt
 
@@ -99,7 +101,7 @@ When did you wake up?
 @
 ```
 
-TODO Add An Example
+![element_overview_time](images/element_overview_time.png)
 
 ### Audio
 
@@ -109,7 +111,7 @@ An audio element is a screen that is an audio file. This could be used for a gui
 [audio](myaudio.m4a)
 ```
 
-TODO Add an Example
+![element_overview_audio](images/element_overview_audio.png)
 
 ### Image
 
@@ -119,4 +121,4 @@ An image element is a screen that is an image file. For bigger habits, we recomm
 [image](myimage.jpg)
 ```
 
-TODO Add an Example
+![element_overview_image](images/element_overview_image.png)

@@ -1,6 +1,6 @@
 # Creating Your First Habit
 
-This guide will explain how you can create habits and routines on Conduct. Conduct has a flexible content system, designed to combine differentiated daily content, prompts, audio, and interactive elements. Throughout this document, we will use the term "habit" and "routine" to refer to a unit of content.
+This guide will explain how you can create habits and routines on Conduct. Conduct has a flexible content system, designed to combine differentiated daily content, prompts, audio, and interactive elements. Throughout this document, we will use the term "habit" and "routine" interchangeably to refer to a unit of content.
 
 ## Source Files
 
@@ -13,7 +13,7 @@ While editing in markdown may be unfamiliar to some people, we believe this is t
 
 ## Creating
 
-After creating an account you will be able to create your content, by uploading it at https://conductapp.net/create.
+After creating an account on Conduct you will be able to create your content, by uploading it at https://conductapp.net/create.
 
 ### Example #1 - How was your day yesterday?
 
@@ -54,7 +54,7 @@ How was your day?
 
 Let's cover the metadata to start. All metadata uses 1 hash ("#") for the title or 3 hash ("###") for the other fields. The metadata is represented on the preview screen, which is what other users will see if you choose to share your habit. Here is how the preview screen looks for the "How Was Your Day?" habit:
 
-[image](how_was_your_day_preview.jpg)
+![Preview](images/firsthabit_preview.png)
 
 Let's cover each field in detail:
 
@@ -64,8 +64,6 @@ Let's cover each field in detail:
 
 The single `#` marks this line as the title of the habit. "How Was Your Day?" will be used to represent the habit throughout conduct, on the preview screen, on the home page, and at the top of the habit when using it.
 
-[image](how_was_your_day_title_locations.jpg)
-
 ```
 ### Subtitle
 
@@ -73,8 +71,6 @@ My First Habit
 ```
 
 This subtitle is used in the preview page for public habits. You can see examples of subtitles by visiting different habits under [the market](https://conductapp.net/market).
-
-TODO ADD IMAGE EXAMPLE
 
 ```
 ### Description
@@ -124,11 +120,11 @@ There are several varieties of screens that you can create, each with it's own p
 
 Uploading your habit requires creating an account and logging in if you haven't done that already. To start uploading, visit https://conductapp.net/create.
 
-TDOD IMAGE OF CREATE SCREEN
+![Create Screen](images/firsthabit_create_screen.png)
 
 Use the file selector to choose the data.md file that you have created. If this is successful, you should see a preview of the habit below, starting with the metadata for the habit:
 
-TDOD IMAGE OF PREVIEW
+![Preview](images/firsthabit_create_preview.png)
 
 You can use the interactive preview for the habit to confirm that the days work as expected. Because we only have one day, the one day should just repeat over and over.
 
@@ -144,7 +140,7 @@ Once you get to the phase of adding new versions of an existing habit, you will 
 
 If you've successfully added the habit, you should be able to go to the home screen and see the habit on your home page, ready to be used!
 
-TODO IMAGE OF HOME SCREEN
+![Homescreen](images/firsthabit_homescreen.png)
 
 ## Multiple Days
 
