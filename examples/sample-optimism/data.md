@@ -32,8 +32,6 @@ Welcome to Simple Optimism! These exercises will guide you through building a ha
 
 Each day, you will be prompted to express optimism for a different subject.
 
-Your entries will remain private on your device. You can choose to share them with others.
-
 You will fill in two prompts each day. The first prompt introduces the subject. Today's first prompt is on the next page.
 
 What is something you like about your home?

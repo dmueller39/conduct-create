@@ -34,8 +34,6 @@ Welcome to Simple Gratitude, a deck of daily reflections.
 
 Each day, you will be prompted to express gratitude for a different subject.
 
-Your entries will remain private on your device. You can choose to share them with others.
-
 You will fill in two prompts each day. The first prompt introduces the subject. Today's first prompt is on the next page.
 
 A home gives shelter. What are some things that your home does for you?
